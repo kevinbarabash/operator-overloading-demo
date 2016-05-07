@@ -3,4 +3,4 @@ require('babel-polyfill');
 
 require('define-operator');
 
-require('./sample');
+require('./src/index');
