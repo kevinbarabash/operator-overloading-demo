@@ -1,3 +1,5 @@
+require('define-operator');
+
 class Complex {
     constructor(re, im = 0) {
         Object.assign(this, {re, im});
